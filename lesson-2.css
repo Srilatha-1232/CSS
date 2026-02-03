@@ -1,0 +1,38 @@
+/* universal selector */
+*{
+    font-family: "comic sans ms  ";
+    border: 1px solid red;
+}
+
+
+/* elementor selector */
+body {
+    font-size: 12px;
+}
+
+h1 , h2{
+    color: blue !important;
+}
+
+/* !important over rides the css elemts */
+
+p {
+    color: purple;
+}
+
+/* class selector */
+.ramu {
+    color: green;
+}
+
+/* id selector */
+#rk {
+    color: aquamarine;
+}
+
+
+/* parent child selector */
+p span {
+    text-transform: uppercase;
+    background-color: yellow;
+}
