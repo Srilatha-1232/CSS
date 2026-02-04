@@ -1,0 +1,24 @@
+body{
+    font-size: 12px;
+    font-family: monospace;
+    line-height: 1.5;
+    background-color: papayawhip;
+    color: rgb(0,0,255);
+}
+
+/* over ride the color */
+/* p{
+color: rgba(0, 0, 0,1);
+} */
+/* a means alpha channel , here it is present between 
+   0 and 1 , here 0 is transparent , and 1 is complete black
+   0.5 is light black it is of thickness , 0 means no thickness 
+   1 means heavy thickness pure black */
+
+/* hexa decimal color */
+
+p{
+    color: #9e26266b;  
+    /* HEX CODES FF0000 - RED , 00FF00 - GREEN , 0000FF - BLUE */
+/* click on the color icon so you can select the your wish color */
+}
