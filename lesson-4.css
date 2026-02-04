@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100vw;
+}
+
+p{
+    font-size: 1 rem;
+    width: 40ch;
+}
+h1  {
+    border: 2px dashed rebeccapurple;
+    width: 30%;
+    background-color: rgba(92, 185, 154, 0.311);
+    padding: 1rem;
+    font-size: 2rem;
+}
+/* main {
+    font-size: 2rem;
+    width: 50vh;
+    background-color: aqua;
+} */
