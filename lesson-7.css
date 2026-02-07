@@ -1,0 +1,21 @@
+a {
+    text-decoration: none;
+    cursor: pointer;
+    color: blue;
+}
+a{
+    color: black;
+}
+
+a:visited {
+    color: purple;
+}
+
+a:hover, a:focus { 
+    color: hsl(210, 100%, 56% ,0.8);
+    background: gold;
+}
+
+a:active {
+    color: red;
+}
